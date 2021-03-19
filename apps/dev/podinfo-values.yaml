@@ -13,4 +13,3 @@ spec:
     ingress:
       hosts:
         - podinfo.dev
-    replicaCount: 2
